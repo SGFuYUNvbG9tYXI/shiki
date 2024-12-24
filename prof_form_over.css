@@ -133,6 +133,7 @@
   }
   #profiles_show .c-column.c-left::before {
     width: 110px;
+    opacity: 0.6;
     content: "Активность";
     border-bottom-left-radius: 0.5rem;
   }
