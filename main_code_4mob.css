@@ -40,7 +40,7 @@
         border-radius: 14px;
         color: rgba(var(--light-color), 1);
         background: rgba(var(--block-color), 0.7);
-        box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.7);
     }
     .l-top_menu-v2 .submenu > a {
         border-radius: 20px;
